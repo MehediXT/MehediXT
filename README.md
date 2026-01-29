@@ -2,16 +2,16 @@
 ### 💻 CSE Student | Competitive Programmer | Aspiring Software Engineer
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="160" style="border-radius: 50%;" />
+  <img src="https://github.com/MehediXT.png" width="160" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Science & Engineering (CSE) student** at **BUBT**
-- 🧠 Passionate about **Problem Solving & Competitive Programming**
-- 🌱 Currently learning **Data Structures & Algorithms**, **Backend Development**
-- 🎯 Goal: **Become a strong Software Engineer & Competitive Programmer**
+- 🎓 Computer Science & Engineering (CSE) student at **BUBT**
+- 🧠 Passionate about **Competitive Programming & Problem Solving**
+- 🌱 Currently learning **Data Structures & Algorithms** and **Backend Development**
+- 🎯 Goal: Become a **skilled Software Engineer** and **Codeforces Specialist**
 - ⚡ Fun fact: I enjoy optimizing code more than writing it 😄
 
 ---
@@ -29,7 +29,7 @@
 - Object-Oriented Programming
 - Problem Solving
 
-### 🌐 Web & Tools
+### 🌐 Tools & Environment
 - Git & GitHub
 - Linux (Ubuntu)
 - VS Code / Neovim
@@ -70,7 +70,7 @@
   <a href="https://github.com/MehediXT">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_HANDLE">
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces" />
   </a>
   <a href="mailto:your_email@gmail.com">
