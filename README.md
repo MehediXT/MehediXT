@@ -1,9 +1,5 @@
-# Hi there 👋, I'm Mehedi Hasan  
+# Hi there 👋, I'm Mehedi Mahamud
 ### 💻 CSE Student | Competitive Programmer | Aspiring Software Engineer
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MehediXT/MehediXT/main/profile.png" width="160" alt="Mehedi Hasan"/>
-</p>
 
 ---
 
@@ -53,7 +49,7 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehediXT&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 <p align="center">
@@ -61,7 +57,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediXT&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+</p> -->
 
 ---
 
