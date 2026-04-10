@@ -1,80 +1,71 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Anime Coding GIF">
+  <h1>Hi there, I'm <a href="https://hemant.codes">Hemant</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   
-  # Hi there 👋, I'm Mehedi Mahamud
+  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+  <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27E8A7&center=true&vCenter=true&width=600&lines=CSE+Student+%40+BUBT;Competitive+Programmer;Linux+%26+Neovim+Enthusiast;Backend+Developer+(Django)" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>
+  
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India, UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  
+  <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
+  <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="Profile Views" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
+  
+  <br><br>
+  <h5><i>⚡️ I don’t trust people who don’t write SQL queries in uppercase ⚡️</i></h5>
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍🚀 About Me
 
-- 🎓 **Education:** Computer Science & Engineering (CSE) student at **BUBT**
-- ⚡ **Workflow:** Proud **Linux** user, living inside the terminal and coding efficiently with **Neovim** ⌨️
-- 🧠 **Passion:** Deeply invested in **Competitive Programming & Problem Solving**
-- 🌱 **Currently Learning:** Mastering **Python** and building robust backend architectures with **Django**
-- 🎯 **Goals:** Earning the **Codeforces Specialist** rank and becoming a highly skilled Software Engineer
-- 💡 **Fun fact:** I probably spend more time optimizing my Neovim config and my algorithms than writing boilerplate code 😄
+<img align="right" height="220px" alt="Space GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
+**I'm a 21-year-old Full-Stack Developer from India.** Whether it's crafting web applications or diving into competitive programming, I do a bit of everything! ❤️
+
+- 🥀 **Currently Learning:** Swift & Objective-C
+- 💻 **Tech Stack:** JavaScript, TypeScript, React, and 69 others.
+- 🚀 **Passions:** SpaceX FanBoi, ready to die for space 😼
+- 🛸 **Interests:** High Energy Physics, Astrophysics, and shooting stars.
+- 🌍 **Philosophy:** All about living life at its best.
+- 💬 **Connect:** Let's get social 👉🏼 [@_hemant_joshi](https://twitter.com/_hemant_joshi)
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Languages & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,linux,neovim,git,bash,github&perline=5" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,csharp,js,ts,python,react,vue,aws,gcp,bash,vscode&perline=6" alt="My Skills" />
   </a>
 </div>
 
 ---
 
-## 🏆 Competitive Programming
-
-<p align="left">
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-</p>
-
-- 🟢 **Milestone:** Solved **300+ problems** and counting
-- ⚔️ **Languages of Choice:** C, C++
-- 🧩 **Focus Areas:** - Arrays & Strings
-  - Sorting & Searching
-  - Math & Number Theory
-  - Greedy Algorithms
-
----
-
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehediXT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediXT&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediXT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/MehediXT">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=mayhemantt&show_icons=true&theme=radical&hide_border=true"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>🧠 Quote I Believe In</h3>
-  <p><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="250" />
+  
+  <h2>🤝 Support & Contributions</h2>
+  
+  <p>🎀 Contributions (<a href="https://guides.github.com/introduction/flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+  <p>💙 If you like my projects, give them a ⭐ and share them with friends!</p>
+  
+  <p><i>Made with ❤️ in India</i></p>
+  
+  <h1>⚡️ <i>Stay awesome!</i> ⚡️</h1>
+  
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Line" />
 </div>
