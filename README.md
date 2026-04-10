@@ -10,6 +10,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/MehediXT)
 [![GitHub](https://img.shields.io/badge/GitHub-MehediXT-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/MehediXT)
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MehediXT&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Codeforces](https://img.shields.io/badge/Codeforces-MehediXT-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-MehediXT-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)
+![Made in Bangladesh](https://img.shields.io/badge/Made%20in-Bangladesh%20🇧🇩-006A4E?style=for-the-badge)
+
 </div>
 
 ---
@@ -54,6 +62,10 @@
 
 <div align="center">
 
+![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces)
+![LeetCode](https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![AtCoder](https://img.shields.io/badge/AtCoder-Competing-silver?style=for-the-badge)
+
 | Platform | Profile |
 |---|---|
 | 🔴 Codeforces | [MehediXT](https://codeforces.com/profile/MehediXT) |
@@ -83,32 +95,3 @@
 ## 🤖 Currently Exploring
 
 ```python
-mehedi = {
-    "focus"    : ["Competitive Programming 🏆", "AI/ML Training 🤖"],
-    "stack"    : ["C++", "Python", "Django"],
-    "tools"    : ["Neovim", "Linux", "Git"],
-    "learning" : ["Neural Networks", "Model Training", "Deep Learning"],
-    "goal_2025": "Hit Candidate Master on Codeforces 🎯"
-}
-```
-
----
-
-<div align="center">
-
-## 🤝 Let's Collaborate!
-
-🎀 **Contributions**, 🔥 **Issues**, and 🥮 **Feature Requests** are always welcome!
-
-💙 If you find my work useful, drop a ⭐ and share it with your CP gang!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br>
-<i>I love connecting with fellow programmers & builders. Let's grow together!</i>
-
-<br>
-
-**⚡ Made with ❤️ in Bangladesh ⚡**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
