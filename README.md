@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <br/>
-<h2 align="center">Status :)</h2>
+<h2 align="center">Stats :)</h2>
 
 <p align="center">
   <img height="170" src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif" alt="lumine"/>
