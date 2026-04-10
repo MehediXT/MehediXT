@@ -1,5 +1,5 @@
 <!-- <h2 align="center">أهلاً، أنا مهدي</h2> -->
-<h2 align ="center"> hey, i'm Mehedi <h2/>
+<h2 align ="center"> Hey, i'm Mehedi <h2/>
 
 <p align="center">
   <img align="center" width="740" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" />
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<
 <br/>
 <h2 align="center">Status :)</h2>
 
@@ -38,7 +37,7 @@
 ![AtCoder](https://img.shields.io/badge/AtCoder-Competing-silver?style=for-the-badge)
 </div>
 
-<h2 align="center">🐱 Througts 🐱</h2>
+<h2 align="center"> Througts </h2>
 
 <p align="center">
   <img width="520" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="sighs"/>
