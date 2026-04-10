@@ -16,19 +16,25 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="200px" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<img align="right" width="340" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-**🎓 CSE student from Bangladesh, obsessed with problem-solving and clean code.**
+🎓 **CSE student from Bangladesh**, obsessed with problem-solving and clean code.
 
-- 🏆 **Competitive Programmer** — C++ is my weapon of choice on Codeforces, LeetCode & AtCoder
-- 🐍 **Python & Django** — Building real stuff when I'm not grinding problems
-- 🤖 **Currently Learning:** AI/ML Training — diving deep into model training & neural networks
-- 🐧 **Linux + Neovim** — Terminal is home. GUI is overrated.
-- 🧠 **Philosophy:** *"Solve hard problems. Write clean code. Sleep eventually."*
-- 🌏 **Location:** Bangladesh 🇧🇩
-- 💬 **Let's connect:** Always down to talk CP, AI, or Linux configs
+&nbsp;&nbsp; 🏆 **Competitive Programmer** — C++ is my weapon of choice on Codeforces, LeetCode & AtCoder
 
-<br>
+&nbsp;&nbsp; 🐍 **Python & Django** — Building real stuff when I'm not grinding problems
+
+&nbsp;&nbsp; 🤖 **Currently Learning** — AI/ML Training, diving into model training & neural networks
+
+&nbsp;&nbsp; 🐧 **Linux + Neovim** — Terminal is home. GUI is overrated.
+
+&nbsp;&nbsp; 🧠 **Philosophy** — *"Solve hard problems. Write clean code. Sleep eventually."*
+
+&nbsp;&nbsp; 🌏 **Location** — Bangladesh 🇧🇩
+
+&nbsp;&nbsp; 💬 **Let's connect** — Always down to talk CP, AI, or Linux configs
+
+<br clear="right"/>
 
 > ⚡ *"I don't always test my code, but when I do — I do it in production."* 😼
 
