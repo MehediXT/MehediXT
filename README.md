@@ -37,7 +37,7 @@
 ![AtCoder](https://img.shields.io/badge/AtCoder-Competing-silver?style=for-the-badge)
 </div>
 
-<h2 align="center"> Contact </h2>
+<h2 align="center"> Contacts </h2>
 
 <p align="center">
   <img width="520" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="sighs"/>
