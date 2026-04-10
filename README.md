@@ -1,14 +1,12 @@
-<div align="center">
+# 🏄‍♂️ Mehe Di
+**`Conding insects`**
 
-# Hey, I'm [Mehedi](https://github.com/MehediXT) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+I'm a competative progarmer, Linux distro hopper, nvim and python,django developer .
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Competitive+Programmer+%F0%9F%8F%86;CSE+Student+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;C%2B%2B+%7C+Python+%7C+Django+Dev;Neovim+%26+Linux+Enjoyer+%F0%9F%90%A7" alt="Typing SVG" />
-**`Digital Craftsman`**
-<br>
-I'm a software engineer, Linux distro hopper, python django .
+   <!-- <p align="left">
+   </p> -->
 
-
-<!--
+<!-- 
 <br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-@MehediXT-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com/MehediXT)
@@ -23,16 +21,16 @@ I'm a software engineer, Linux distro hopper, python django .
 ![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)
 ![Made in Bangladesh](https://img.shields.io/badge/Made%20in-Bangladesh%20🇧🇩-006A4E?style=for-the-badge)
 
-</div>
--->
+</div> -->
+
 ---
 
-## 👨‍💻 About Me
-<img align="left" width="340" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<!-- <img align="left" width="340" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" /> -->
 
-<img align="right" width="340" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" />
-<br>
-### 🧰 Languages and Tools
+<img align="center" width="740" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" />
+
+
+<h2>🧰 Languages and Tools<h2/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -79,8 +77,5 @@ I'm a software engineer, Linux distro hopper, python django .
 </div>
 
 ---
-
-## 🤖 Currently Exploring
-
-```nothing
+<img align="left" width="340" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
