@@ -28,8 +28,6 @@ I'm a competative progarmer, Linux distro hopper, nvim and python,django develop
 <!-- <img align="left" width="340" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" /> -->
 
 <img align="center" width="740" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediXT)](https://github.com/MehediXT/github-readme-stats)
 <h2>🧰 Languages and Tools<h2/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
