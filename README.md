@@ -53,3 +53,7 @@
   <img width="720" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="sighs"/>
 </p>
 <!-- Ripped off from @folliehiyuki -->
+
+<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
+
+<p align="center"> <img  width="900em" alt="MehediXT Github comitte snake"  src="https://github.com/MehediXT/MehediXT/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
