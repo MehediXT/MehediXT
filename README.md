@@ -1,3 +1,4 @@
+
 <!-- <h2 align="center">أهلاً، أنا مهدي</h2> -->
 <h2 align ="center"> Hey, i'm Mehedi <h2/>
 
@@ -21,9 +22,9 @@
 
 <p align="center">
   <img height="170" src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif" alt="lumine"/>
-  <img src="https://github-readme-stats-saif-shahriars-projects.vercel.app/api/top-langs/?username=MehediXT&langs_count=20&layout=compact&exclude_repo=MehediXT.github.io&hide=makefile,roff,liquid,css,html&theme=tokyonight&timestamp=2025-07-15-3" alt="MehediXT's GitHub stats"/>
+  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/top-langs/?username=MehediXT&hide_title=true&langs_count=10&layout=compact&exclude_repo=MehediXT.github.io&hide=makefile,roff,liquid,css,html,typescript,javascript&theme=tokyonight&timestamp=2026-08-01" alt="Mehedi's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats-saif-shahriars-projects.vercel.app/api?username=MehediXT&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight&timestamp=2025-07-15-3" />
+  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api?&hide_title=true&username=MehediXT&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight&timestamp=2026-08-01"/>
   <img height="170" src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" alt="kokkoro_ok"/>
 </p>
 <br/>
@@ -49,11 +50,11 @@
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
 <br>
-<p align="center">
-  <img width="720" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="sighs"/>
+<!-- <p align="center">
+  <img width="720" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="sighs"/> -->
 </p>
 <!-- Ripped off from @folliehiyuki -->
 
-<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
+<!-- <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4> -->
 
-<p align="center"> <img  width="900em" alt="MehediXT Github comitte snake"  src="https://github.com/MehediXT/MehediXT/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
+<!-- <p align="center"> <img  width="900em" alt="MehediXT Github comitte snake"  src="https://github.com/MehediXT/MehediXT/blob/output/github-contribution-grid-snake-dark.svg" /> </p> -->
